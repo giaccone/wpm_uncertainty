@@ -1,0 +1,33 @@
+In order to run the codes related to the measurements, you need to download the data.
+You can get them with this link:
+
+https://www.dropbox.com/s/gzqr476x7twhjmy/currents.zip?dl=1
+
+* The link points to a file called 'currents.zip'.
+* you must extract it in the 'currents' folder of this repository
+
+This is the content of the archive (24 files):
+current_delay_0_wt_75.npz
+current_delay_0_wt_100.npz
+current_delay_0_wt_125.npz
+current_delay_0_wt_150.npz
+current_delay_0_wt_175.npz
+current_delay_0_wt_200.npz
+current_delay_10_wt_75.npz
+current_delay_10_wt_100.npz
+current_delay_10_wt_125.npz
+current_delay_10_wt_150.npz
+current_delay_10_wt_175.npz
+current_delay_10_wt_200.npz
+current_delay_20_wt_75.npz
+current_delay_20_wt_100.npz
+current_delay_20_wt_125.npz
+current_delay_20_wt_150.npz
+current_delay_20_wt_175.npz
+current_delay_20_wt_200.npz
+current_delay_30_wt_75.npz
+current_delay_30_wt_100.npz
+current_delay_30_wt_125.npz
+current_delay_30_wt_150.npz
+current_delay_30_wt_175.npz
+current_delay_30_wt_200.npz
